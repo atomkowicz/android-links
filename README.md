@@ -66,8 +66,13 @@ There are a lot of great articles and tutorials that we are all finding and shar
 
 **Other**
 [Shimmer Effect for Android](http://anandbose.github.io/android_shimmereffect.html) - Add a shimmer effect to your views; originally designed as a loading indicator. (Thanks to @jgeovani's [comment](https://discussions.udacity.com/t/quidditch-world-cup-harry-potter-magic-world-score-keeper/220491/5) for this) 
-[Shimmer Effect for Android (Facebook)](http://facebook.github.io/shimmer-android/) - The Facebook post and files for the shimmer effect.(Thanks to @jgeovani's [comment](https://discussions.udacity.com/t/quidditch-world-cup-harry-potter-magic-world-score-keeper/220491/5) for this)	**Material Design**
+[Shimmer Effect for Android (Facebook)](http://facebook.github.io/shimmer-android/) - The Facebook post and files for the shimmer effect.
+
+**Material Design**
 [Material Design Guidelines](https://material.io/guidelines/)
 [Material Design Primer](https://guides.codepath.com/android/material-design-primer)
 [Design Support Library Setup](https://guides.codepath.com/android/Design-Support-Library)
 [Handling Scrolls With CoordinatorLayout](https://guides.codepath.com/android/Handling-Scrolls-with-CoordinatorLayout)
+
+**Animations**
+[Transitions] https://medium.com/@andkulikov/animate-all-the-things-transitions-in-android-914af5477d50
