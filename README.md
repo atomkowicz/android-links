@@ -77,6 +77,9 @@ There are a lot of great articles and tutorials that we are all finding and shar
 **Animations**
 [Transitions] https://medium.com/@andkulikov/animate-all-the-things-transitions-in-android-914af5477d50
 
+**Andrid cheatsheet**
+[Android cheatsheet] http://petrnohejl.github.io/Android-Cheatsheet-For-Graphic-Designers/#screen-densities-and-icon-dimensions
+
 # Libraries
 
 **Camera**
